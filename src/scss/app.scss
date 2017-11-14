@@ -1,0 +1,32 @@
+body {
+    background: lightblue;
+}
+
+.app-container {
+    width: 300px;
+    height: 300px;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+.app-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    border: 1px solid red;
+}
+
+.app-value {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 220px;
+    font-size: 100px;
+    border: 1px solid red;
+}
+
+.app-buttons {
+    height: 40px;
+    border: 1px solid red;
+}
